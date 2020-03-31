@@ -1,2 +1,4 @@
 # hello-world
-nothing
+
+hello everyone!
+This is the onset of my programing
